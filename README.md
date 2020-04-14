@@ -2,4 +2,4 @@
 
 Contoh Cara Debug PHPMysqli
 
-baca disini : s.id/dbgQuery
+baca disini : https://s.id/dbgQuery
